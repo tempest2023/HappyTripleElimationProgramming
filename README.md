@@ -61,19 +61,6 @@ In this process, there is a window to show the code panel and also teach players
 - [ ] Shops to buy more items
 - [ ] More Animations
 
-
-### Demo
-
-[Video Demo Link](https://drive.google.com/file/d/1MHUcxK6A5LOsq9obJqb8Fv3CSnoNsoR6/view?usp=sharing)
-
-![demo1](./public/demo1.png)
-
-![demo2](./public/demo2.png)
-
-![demo3](./public/demo3.png)
-
-
-
 ### License
 
 MIT

@@ -2,6 +2,7 @@
   "name": "happy-triple-elimation-programming-algorithm",
   "version": "1.0.0",
   "author": "Temepst <tar118@pitt.edu> (https://blog.epicanecdotes.games)",
+  "description": "A triple match elimination game with educational programming challenges",
   "main": "./out/main/index.js",
   "homepage": "https://triple.epicanecdotes.games/",
   "keywords": [
