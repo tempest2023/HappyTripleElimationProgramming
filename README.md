@@ -5,6 +5,11 @@ A game to teach players what is algorithm practise looks like.
 A Match 3 casual game.
 Hope you enjoy the HAPPY ELIMINATING and learn some algorithm knowledge.
 
+You can try it [here](http://triple.epicanecdotes.games/)
+
+(https may not work) [link](https://triple.epicanecdotes.games/)
+
+
 ### Players
 
 -   Everyone who is interested in programming!
