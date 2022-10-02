@@ -89,11 +89,11 @@ In this process, there is a window to show the code panel and teach players some
 
 [A Short Youtube Video about this game](https://www.youtube.com/watch?v=vIwVpJCnF4I)
 
-![demo1](./public/demo1.png)
+![demo1](https://raw.githubusercontent.com/623059008/HappyTripleElimationProgramming/main/public/demo1.png)
 
-![demo2](./public/demo2.png)
+![demo2](https://raw.githubusercontent.com/623059008/HappyTripleElimationProgramming/main/public/demo2.png)
 
-![demo3](./public/demo3.png)
+![demo3](https://raw.githubusercontent.com/623059008/HappyTripleElimationProgramming/main/public/demo3.png)
 
 ### License
 
@@ -131,3 +131,7 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+### Release
+
+[Windows Release](https://temepst-666.itch.io/happy-triple-elimation-programming-algorithm)
