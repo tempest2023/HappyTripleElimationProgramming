@@ -6,9 +6,15 @@ A game to teach players what is algorithm practise looks like.
 A Match 3 casual game.
 Hope you enjoy the HAPPY ELIMINATING and learn some algorithm knowledge.
 
+![demo1](./public/demo1.png)
+
 You can try it [here](http://triple.epicanecdotes.games/)
 
 (https may not work) [link](https://triple.epicanecdotes.games/)
+
+### Electron Version
+
+I developed an electron version can be installed on Windows/Linux/MacOS. See more to switch the branch to electron.
 
 ### Players
 
