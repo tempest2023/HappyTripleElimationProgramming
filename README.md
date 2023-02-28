@@ -4,7 +4,10 @@
 
 A game to teach players what is algorithm practise looks like.
 A Match 3 casual game.
+
 Hope you enjoy the HAPPY ELIMINATING and learn some algorithm knowledge.
+
+> This game is developed for [pitt game4social impact 2022](https://itch.io/jam/pitt-games-4-social-impact-2022/entries), I completed development within 1.5 days, which is very challenging.
 
 ![demo1](./public/demo1.png)
 
